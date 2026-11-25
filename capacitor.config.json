@@ -1,0 +1,12 @@
+{
+  "appId": "com.istighfar.mahl",
+  "appName": "استغفار على مهل",
+  "webDir": "www",
+  "server": {
+    "url": "https://istighfar-3la-mahl.netlify.app",
+    "androidScheme": "https"
+  },
+  "android": {
+    "backgroundColor": "#0d0805"
+  }
+}
